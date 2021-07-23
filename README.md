@@ -1,2 +1,4 @@
-# phpexcel_for_php7.4
-fix phpexcel 1.8.2 for php7.4
+Fix phpexcel 1.8.2 to support php7.4
+
+Source:
+https://github.com/PHPOffice/PHPExcel
